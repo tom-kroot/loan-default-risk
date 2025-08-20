@@ -1,0 +1,1 @@
+Synthetic loan data lives here. Replace with real data if desired.

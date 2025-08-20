@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints
+.venv/
+data/processed/
+data/raw/
+!data/README.md
+.DS_Store
